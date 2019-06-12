@@ -8,7 +8,7 @@ GMMV-LIM is a MATLAB-based package of the **Linear Inversion Method based on the
 
 - See `INSTALL.md` for installation instruction.
 
-- See the following papers for details of GMMV-LIM.
+- For details of GMMV-LIM, see
 
 	- [*A Linear Model for Microwave Imaging of Highly Conductive Scatterers*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8123524), S. Sun, B. J. Kooij, A. G. Yarovoy, IEEE Transactions on Microwave Theory and Techniques, 66 (3), 1149 - 1164, 2018
 
