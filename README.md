@@ -6,6 +6,11 @@ Introduction
 
 GMMV-LIM is a MATLAB-based package of the **Linear Inversion Method based on the Generalized Multiple Measurement Vectors model**. This package inverts the [Fresnel data](http://www.fresnel.fr/3Ddatabase/) with multiple frequency components. In addition, it also contains the linear sampling method (LSM). Comparison can be easily made to verify the advantage of GMMV-LIM. 
 
+- Basic formulation
+
+	- [formulation](http://latex.codecogs.com/gif.latex?%5Cmin%5C%20%5Ckappa%28J%29%20%5Cquad%20%5Ctext%7Bs.%20t.%7D%5C%20%5Cleft%5C%7C%5CPhi%20%5Ccdot%20J%20-%20Y%5Cright%5C%7C_F%20%5Cleq%20%5Ctilde%7B%5Csigma%7D)
+	where, [](http://latex.codecogs.com/gif.latex?%5Ckappa%28J%29%3D%5C%7CJ%5C%7C_%7B1%2C2%7D%3A%3D%5Csum_%7Bn%3D1%7D%5EN%5Cleft%5C%7CJ_%7Bn%2C%3A%7D%5ET%5Cright%5C%7C_2)
+
 - See `INSTALL.md` for installation instruction.
 
 - For details of GMMV-LIM, see
