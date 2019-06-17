@@ -17,9 +17,7 @@ GMMV-LIM is a MATLAB-based package of the **Linear Inversion Method based on the
 - See `INSTALL.md` for installation instruction.
 
 
-Feedback
---------
-We would be delighted to hear from you if you find GMMV-LIM useful, or if you have any suggestions, contributions, or bug reports. Please send these to
+- We would be delighted to hear from you if you find GMMV-LIM useful, or if you have any suggestions, contributions, or bug reports. Please send these to
 
 Shilong Sun (shilongsun@icloud.com)
 
